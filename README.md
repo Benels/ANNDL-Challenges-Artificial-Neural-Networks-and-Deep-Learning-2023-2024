@@ -10,7 +10,7 @@ In this challenge, we tackle the task of image classification using deep learnin
 - **Key Technologies**: TensorFlow, Keras, NumPy, Matplotlib
 - **Notable Techniques**: Data Augmentation, Transfer Learning, Convolutional Neural Networks (CNNs)
 
-For more details, check out the [Image Classification Notebook](Challenge 1 -  Image Classification/ImageClassification.ipynb).
+For more details, check out the [Image Classification Notebook](Challenge%201%20-%20%20Image%20Classification/ImageClassification.ipynb).
 
 The report is available 📄 [here](Challenge%201%20-%20%20Image%20Classification/Image%20Classification%20Report.pdf) 📥.
 
@@ -20,7 +20,7 @@ This challenge focuses on forecasting future values based on historical time ser
 - **Key Technologies**: TensorFlow, Keras, NumPy, Pandas, Matplotlib
 - **Notable Techniques**: LSTM Networks, Data Preprocessing, Model Evaluation
 
-For more information, visit the [Time Series Forecasting Notebook](Challenge 2 - Time Series Forecasting/TimeSeriesForecasting.ipynb).
+For more information, visit the [Time Series Forecasting Notebook](Challenge%202%20-%20Time%20Series%20Forecasting/TimeSeriesForecasting.ipynb).
 
 The report is available 📄 [here](Challenge%202%20-%20Time%20Series%20Forecasting/Time%20Series%20Forecasting%20Report.pdf) 📥.
 
